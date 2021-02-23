@@ -1,0 +1,12 @@
+hovedindgang: background-color: #F7403A;
+servicecenter: background-color: #668e96;
+studieadministration: background-color: #222221;
+studievejledning: background-color: #004250;
+fredagsbar: background-color: #6690CE;
+faglokale: background-color: #0046AD;
+gruppeområde: background-color: #BED6DB;
+kantine: background-color: #fa8c89;
+bibliotek: background-color: #ffcb4f;
+internationalt kontor: background-color: #ffe5a7;
+boghandlen:
+main street: 
