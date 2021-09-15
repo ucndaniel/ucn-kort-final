@@ -92,6 +92,10 @@ div>.hotspot.image {
 video:focus {
     outline: none;
 }
+span {
+    display: flex;
+    align-items: center;
+}
 .vjs-poster {
     background-size: cover;
 }
@@ -322,13 +326,20 @@ button:hover {
         --hFont: 6vw;
         --pFont: 3vw;
     }
+    #hotspotId22 {
+        width: 52%;
+        position: fixed;
+        top: 10%;
+        left: 73%;
+        transform: translate(-50%, -50%);
+        }
     .mobileMessage {
         display: block;
         margin-top: 2vw;
     }
     .circle1 {
         width: 3vw;
-        margin-right: 1vw;
+        margin-right: 2vw;
     }
     .video-js.vjs-fluid,
     .video-js.vjs-16-9,

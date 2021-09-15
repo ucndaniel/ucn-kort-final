@@ -92,6 +92,10 @@ div>.hotspot.image {
 video:focus {
     outline: none;
 }
+span {
+    display: flex;
+    align-items: center;
+}
 .vjs-poster {
     background-size: cover;
 }
@@ -340,8 +344,16 @@ button:hover {
 
     .circle1 {
         width: 3vw;
-        margin-right: 1vw;
+        margin-right: 2vw;
     }
+
+    #hotspotId29 {
+        width: 52%;
+        position: fixed;
+        top: 10%;
+        left: 73%;
+        transform: translate(-50%, -50%);
+        }
     .video-js.vjs-fluid,
     .video-js.vjs-16-9,
     .video-js.vjs-4-3 {

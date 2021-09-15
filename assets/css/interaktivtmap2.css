@@ -93,7 +93,10 @@ div>.hotspot.image {
 video:focus {
     outline: none;
 }
-
+span {
+    display: flex;
+    align-items: center;
+}
 .vjs-poster {
     background-size: cover;
 }
@@ -511,10 +514,10 @@ button:hover {
     }*/
     #hotspotId29 {
         width: 40%;
-    position: fixed;
-    top: 7%;
-    left: 76%;
-    transform: translate(-50%, -50%);
+        position: fixed;
+        top: 7%;
+        left: 76%;
+        transform: translate(-50%, -50%);
         }
     /* #video1 {
         width: 731px;
@@ -625,11 +628,11 @@ button:hover {
         --pFont: 3vw;
     }
     #hotspotId29 {
-        width: 40%;
-    position: fixed;
-    top: 7%;
-    left: 76%;
-    transform: translate(-50%, -50%);
+        width: 52%;
+        position: fixed;
+        top: 10%;
+        left: 73%;
+        transform: translate(-50%, -50%);
         }
     
     .mobileMessage {
@@ -657,7 +660,7 @@ button:hover {
 
     .circle1 {
         width: 3vw;
-        margin-right: 1vw;
+        margin-right: 2vw;
     }
 
     #hotspotId0 {
